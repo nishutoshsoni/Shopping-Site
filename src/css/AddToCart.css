@@ -1,0 +1,16 @@
+.box{
+    height: 255px;
+    width: 255px
+}
+
+.centre{
+    text-align: center;
+}
+
+.cartElement{
+    border: 1px solid;
+}
+
+.margin{
+    margin: 50px
+}

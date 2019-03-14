@@ -1,0 +1,19 @@
+.box{
+    height: 255px;
+    width: 255px
+}
+
+.centre{
+    text-align: center;
+}
+
+#divElement{
+padding: 3%;
+}
+
+#divElement:hover{
+    transform: scale(1.2);
+    position: relative;
+    z-index: 1;
+    cursor: pointer;
+}

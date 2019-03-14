@@ -1,0 +1,28 @@
+{
+  "items": [
+    {
+      "name": "Heisenberg T-Shirt",
+      "id": 1,
+      "price": 200,
+      "url": "http://www.teesfair.com/wp-content/uploads/1-10.jpg"
+    },
+    {
+      "name": "Lazy T-Shirt",
+      "id": 2,
+      "price": 300,
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaWm_oaY4xXRlFYtdDqDFE5diIv0XgykuftEt6Zy_WP1HXundgAg"
+    },
+    {
+      "name": "Cool Skull T-Shirt",
+      "id": 3,
+      "price": 1400,
+      "url": "https://rapid-coupons.com/wp-content/uploads/2018/03/1522037113322374143.jpg"
+    },
+    {
+      "name": "SabMohMayaHai T-Shirt",
+      "id": 4,
+      "price": 1100,
+      "url": "https://5.imimg.com/data5/VM/LA/GLADMIN-14058241/moh-maya-cool-t-shirt-500x500.png"
+    }
+  ]
+}
